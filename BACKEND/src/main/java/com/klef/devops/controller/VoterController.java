@@ -18,6 +18,7 @@ import com.klef.devops.repository.VoterRepo;
 import com.klef.devops.service.VoterServiceImpl;
 
 @RestController
+
 @CrossOrigin(origins ="*")
 public class VoterController {
 	
